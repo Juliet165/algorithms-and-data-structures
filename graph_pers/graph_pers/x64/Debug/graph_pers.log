@@ -1,0 +1,6 @@
+﻿  graph_pers.cpp
+C:\ЮЛЯ\БГУ\Алгосы\graph_pers\graph_pers\graph_pers.cpp(366,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\graph_pers\graph_pers\graph_pers.cpp(382,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\graph_pers\graph_pers\graph_pers.cpp(494,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\graph_pers\graph_pers\graph_pers.cpp(495,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  graph_pers.vcxproj -> C:\ЮЛЯ\БГУ\Алгосы\graph_pers\x64\Debug\graph_pers.exe

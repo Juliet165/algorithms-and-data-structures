@@ -1,0 +1,4 @@
+﻿  Levenshtein_distance.cpp
+C:\ЮЛЯ\БГУ\Алгосы\Levenshtein_distance\Levenshtein_distance\Levenshtein_distance.cpp(16,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\Levenshtein_distance\Levenshtein_distance\Levenshtein_distance.cpp(17,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Levenshtein_distance.vcxproj -> C:\ЮЛЯ\БГУ\Алгосы\Levenshtein_distance\x64\Debug\Levenshtein_distance.exe

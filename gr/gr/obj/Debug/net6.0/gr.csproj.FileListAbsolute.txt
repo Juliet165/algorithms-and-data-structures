@@ -1,0 +1,15 @@
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.csproj.AssemblyReference.cache
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.GeneratedMSBuildEditorConfig.editorconfig
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.AssemblyInfoInputs.cache
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.AssemblyInfo.cs
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.csproj.CoreCompileInputs.cache
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\bin\Debug\net6.0\gr.exe
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\bin\Debug\net6.0\gr.deps.json
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\bin\Debug\net6.0\gr.runtimeconfig.json
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\bin\Debug\net6.0\gr.dll
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\bin\Debug\net6.0\gr.pdb
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.dll
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\refint\gr.dll
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.pdb
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\gr.genruntimeconfig.cache
+C:\ЮЛЯ\БГУ\Алгосы\gr\gr\obj\Debug\net6.0\ref\gr.dll

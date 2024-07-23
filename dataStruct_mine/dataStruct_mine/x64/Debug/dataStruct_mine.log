@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+MSBUILD : error MSB4166: произошло преждевременное завершение работы дочернего узла "2". Идет завершение работы. Диагностические данные можно найти в файлах с именем MSBuild_*.failure.txt, находящихся в каталоге "C:\Users\Julia\AppData\Local\Temp\MSBuildTempJulia\". Этот каталог можно изменить в переменной среды MSBUILDDEBUGPATH.
+MSBUILD : error MSB4166: C:\Users\Julia\AppData\Local\Temp\MSBuildTempJulia\MSBuild_pid-13764_e26fef08847442709a0e0f78a680c60e.failure.txt:
+MSBUILD : error MSB4166: UNHANDLED EXCEPTIONS FROM PROCESS 13764:
+MSBUILD : error MSB4166: =====================
+MSBUILD : error MSB4166: 07.12.2023 20:40:18
+MSBUILD : error MSB4166: System.OutOfMemoryException: Выдано исключение типа "System.OutOfMemoryException".
+MSBUILD : error MSB4166:    в Microsoft.Build.CPPTasks.VCToolTask.ParseLine(String inputLine)
+MSBUILD : error MSB4166:    в Microsoft.Build.CPPTasks.VCToolTask.LogEventsFromTextOutput(String singleLine, MessageImportance messageImportance)
+MSBUILD : error MSB4166:    в Microsoft.Build.CPPTasks.TrackedVCToolTask.ReadUnicodeOutput(Object stateInfo)
+MSBUILD : error MSB4166:    в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+MSBUILD : error MSB4166:    в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+MSBUILD : error MSB4166:    в System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+MSBUILD : error MSB4166:    в System.Threading.ThreadPoolWorkQueue.Dispatch()
+MSBUILD : error MSB4166: ===================
+MSBUILD : error MSB4166: 
+MSBUILD : error MSB4166: 

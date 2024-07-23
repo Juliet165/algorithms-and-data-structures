@@ -1,0 +1,3 @@
+﻿  frog.cpp
+C:\ЮЛЯ\БГУ\Алгосы\frog\frog\frog.cpp(182,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  frog.vcxproj -> C:\ЮЛЯ\БГУ\Алгосы\frog\x64\Debug\frog.exe

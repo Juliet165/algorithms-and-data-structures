@@ -1,0 +1,5 @@
+﻿  BinarySearch.cpp
+C:\ЮЛЯ\БГУ\Алгосы\BinarySearch\BinarySearch\BinarySearch.cpp(7,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\BinarySearch\BinarySearch\BinarySearch.cpp(22,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ЮЛЯ\БГУ\Алгосы\BinarySearch\BinarySearch\BinarySearch.cpp(38,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  BinarySearch.vcxproj -> C:\ЮЛЯ\БГУ\Алгосы\BinarySearch\x64\Debug\BinarySearch.exe
